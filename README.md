@@ -1,16 +1,38 @@
-## Hi there 👋
+### Hi, I'm Lucas 👋
 
-<!--
-**LucasRuizGomez/LucasRuizGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Business Administration student at **Universidad Carlos III de Madrid** (dual degree, graduating 2027/28).
+I work where technology meets strategy, and I'm most interested in **energy, markets and the energy transition in EMEA**.
 
-Here are some ideas to get you started:
+- 🏢 Most recently: **IT Strategy Intern at Capgemini Invent** (Jul–Oct 2026) on a European energy major account, mapping IT architecture with SAP LeanIX and writing solution documents
+- 🏆 1st place at the **MOEVE Innovation Challenge** (project LINCE) and the **Edumundo Business Simulation** (FH Kufstein)
+- 📈 Long-term value investor in my spare time; learning to model and analyse companies properly
+- 🌍 Spanish · English (C2) · German (C1) · learning Gulf Arabic
+- 🎧 Off the keyboard: music production in FL Studio, DJing and piano
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ What I work with
+
+**Languages:** Python · C++ · SQL · HTML/CSS · JavaScript
+**Data:** Redis · relational databases · data analysis
+**Tools:** Git · Docker · DataGrip · SAP LeanIX
+**Business:** IT strategy · ITSM · financial analysis · market research
+
+---
+
+#### 📂 Highlights
+
+| Project | What it is |
+|---|---|
+| [Heuristica2](https://github.com/LucasRuizGomez/Heuristica2) | Search and heuristic algorithms in Python |
+| [Arquitectura](https://github.com/LucasRuizGomez/Arquitectura) | Computer architecture coursework in C++ |
+| [Market-Research](https://github.com/LucasRuizGomez/Market-Research) | Market research projects carried out at UC3M |
+| [Interfaces](https://github.com/LucasRuizGomez/Interfaces) | User interface design and front-end work |
+
+---
+
+#### 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--ruizgomez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ruizgomez)
+[![Website](https://img.shields.io/badge/Website-LucasRuizGomez.github.io-222?style=flat&logo=github&logoColor=white)](https://lucasruizgomez.github.io)
+[![Email](https://img.shields.io/badge/Email-100498880%40alumnos.uc3m.es-D14836?style=flat&logo=gmail&logoColor=white)](mailto:100498880@alumnos.uc3m.es)
