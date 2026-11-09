@@ -33,5 +33,5 @@ I work where technology meets strategy, and I'm most interested in **energy, mar
 
 #### 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--ruizgomez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ruiz-gomez/)
-[![Email](https://img.shields.io/badge/Email-100498880%40alumnos.uc3m.es-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucas.ruiz.gomez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--ruiz--gomez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ruiz-gomez/)
+[![Email](https://img.shields.io/badge/Email-lucas.ruiz.gomez@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucas.ruiz.gomez@gmail.com)
