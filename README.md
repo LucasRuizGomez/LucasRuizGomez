@@ -6,8 +6,8 @@ I work where technology meets strategy, and I'm most interested in **energy, mar
 - 🏢 Most recently: **IT Strategy Intern at Capgemini Invent** (Jul–Oct 2026) on a European energy major account, mapping IT architecture with SAP LeanIX and writing solution documents
 - 🏆 1st place at the **MOEVE Innovation Challenge** (project LINCE) and the **Edumundo Business Simulation** (FH Kufstein)
 - 📈 Long-term value investor in my spare time; learning to model and analyse companies properly
-- 🌍 Spanish · English (C2) · German (C1) · learning Gulf Arabic
-- 🎧 Off the keyboard: music production in FL Studio, DJing and piano
+- 🌍 Spanish · English (C2) · German (C1)
+- 🎧 Music production in FL Studio, and piano enthusiast
 
 ---
 
@@ -33,6 +33,5 @@ I work where technology meets strategy, and I'm most interested in **energy, mar
 
 #### 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--ruizgomez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ruizgomez)
-[![Website](https://img.shields.io/badge/Website-LucasRuizGomez.github.io-222?style=flat&logo=github&logoColor=white)](https://lucasruizgomez.github.io)
-[![Email](https://img.shields.io/badge/Email-100498880%40alumnos.uc3m.es-D14836?style=flat&logo=gmail&logoColor=white)](mailto:100498880@alumnos.uc3m.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--ruizgomez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ruiz-gomez/)
+[![Email](https://img.shields.io/badge/Email-100498880%40alumnos.uc3m.es-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucas.ruiz.gomez@gmail.com)
